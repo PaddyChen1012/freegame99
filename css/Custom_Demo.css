@@ -1,0 +1,88 @@
+[class^="demo-pic"] {
+    padding-bottom: 60%;
+}
+.pg .demo-pic1 {background: url(../images/genies-3-wishes.jpg)no-repeat center/cover;}
+.pg .demo-pic2 {background: url(../images/fortune-gods.jpg)no-repeat center/cover;}
+.pg .demo-pic3 {background: url(../images/candy-burst.jpg)no-repeat center/cover;}
+.pg .demo-pic4 {background: url(../images/symbols-of-egypt.jpg)no-repeat center/cover;}
+.pg .demo-pic5 {background: url(../images/fortune-mouse.jpg)no-repeat center/cover;}
+.pg .demo-pic6 {background: url(../images/captains-bounty.jpg)no-repeat center/cover;}
+.pg .demo-pic7 {background: url(../images/tree-of-fortune.jpg)no-repeat center/cover;}
+.pg .demo-pic8 {background: url(../images/muay-thai-champion.jpg)no-repeat center/cover;}
+.jdb .demo-pic1 {background: url(../images/super-niubi.jpg)no-repeat center/cover;}
+.jdb .demo-pic2 {background: url(../images/open-sesame2.jpg)no-repeat center/cover;}
+.jdb .demo-pic3 {background: url(../images/formosa-bear.jpg)no-repeat center/cover;}
+.jdb .demo-pic4 {background: url(../images/winning-mask.jpg)no-repeat center/cover;}
+.jdb .demo-pic5 {background: url(../images/mjolnir.jpg)no-repeat center/cover;}
+.jdb .demo-pic6 {background: url(../images/ninja-rush.jpg)no-repeat center/cover;}
+.jdb .demo-pic7 {background: url(../images/wukong.jpg)no-repeat center/cover;}
+.jdb .demo-pic8 {background: url(../images/lucky-dragon.jpg)no-repeat center/cover;}
+.sg .demo-pic1 {background: url(../images/brothers-kingdom.jpg)no-repeat center/cover;}
+.sg .demo-pic2 {background: url(../images/mr-chu-tycoon.jpg)no-repeat center/cover;}
+.sg .demo-pic3 {background: url(../images/golden-lotus-se.jpg)no-repeat center/cover;}
+.sg .demo-pic4 {background: url(../images/zuse.jpg)no-repeat center/cover;}
+.sg .demo-pic5 {background: url(../images/money-mouse.jpg)no-repeat center/cover;}
+.sg .demo-pic6 {background: url(../images/magic-lamp.jpg)no-repeat center/cover;}
+.sg .demo-pic7 {background: url(../images/golden-monkey.jpg)no-repeat center/cover;}
+.sg .demo-pic8 {background: url(../images/candy-pop.jpg)no-repeat center/cover;}
+.bng .demo-pic1 {background: url(../images/scarab-riches.jpg)no-repeat center/cover;}
+.bng .demo-pic2 {background: url(../images/shen-long-mi-bao.jpg)no-repeat center/cover;}
+.bng .demo-pic3 {background: url(../images/african-spirit.jpg)no-repeat center/cover;}
+.bng .demo-pic4 {background: url(../images/wild-888.jpg)no-repeat center/cover;}
+.bng .demo-pic5 {background: url(../images/sun-of-egypt.jpg)no-repeat center/cover;}
+.bng .demo-pic6 {background: url(../images/dragon-pearls.jpg)no-repeat center/cover;}
+.bng .demo-pic7 {background: url(../images/halloween-witch.jpg)no-repeat center/cover;}
+.bng .demo-pic8 {background: url(../images/olympian-gods.jpg)no-repeat center/cover;}
+.ka .demo-pic1 {background: url(../images/cai-yuan-guang-jin.jpg)no-repeat center/cover;}
+.ka .demo-pic2 {background: url(../images/cocorico.jpg)no-repeat center/cover;}
+.ka .demo-pic3 {background: url(../images/chinese-opera.jpg)no-repeat center/cover;}
+.ka .demo-pic4 {background: url(../images/treasure-bowl.jpg)no-repeat center/cover;}
+.ka .demo-pic5 {background: url(../images/route-66.jpg)no-repeat center/cover;}
+.ka .demo-pic6 {background: url(../images/erlang-shen.jpg)no-repeat center/cover;}
+.ka .demo-pic7 {background: url(../images/quadrupl-dragons.jpg)no-repeat center/cover;}
+.ka .demo-pic8 {background: url(../images/lion-dance.jpg)no-repeat center/cover;}
+.cq9 .demo-pic1 {background: url(../images/the-coupids.jpg)no-repeat center/cover;}
+.cq9 .demo-pic2 {background: url(../images/slot_01.jpg)no-repeat center/cover;}
+.cq9 .demo-pic3 {background: url(../images/runningtoro.jpg)no-repeat center/cover;}
+.cq9 .demo-pic4 {background: url(../images/sosweet.jpg)no-repeat center/cover;}
+.cq9 .demo-pic5 {background: url(../images/chameleon.jpg)no-repeat center/cover;}
+.cq9 .demo-pic6 {background: url(../images/luckybats.jpg)no-repeat center/cover;}
+.cq9 .demo-pic7 {background: url(../images/wonderland.jpg)no-repeat center/cover;}
+.cq9 .demo-pic8 {background: url(../images/redphoenix.jpg)no-repeat center/cover;}
+/* .pls .demo-pic1 {background: url(../images/)no-repeat center/cover;}
+.pls .demo-pic2 {background: url(../images/)no-repeat center/cover;}
+.pls .demo-pic3 {background: url(../images/)no-repeat center/cover;}
+.pls .demo-pic4 {background: url(../images/)no-repeat center/cover;}
+.pls .demo-pic5 {background: url(../images/)no-repeat center/cover;}
+.pls .demo-pic6 {background: url(../images/)no-repeat center/cover;}
+.pls .demo-pic7 {background: url(../images/)no-repeat center/cover;}
+.pls .demo-pic8 {background: url(../images/)no-repeat center/cover;}
+.evoplay  .demo-pic1 {background: url(../images/)no-repeat center/cover;}
+.evoplay .demo-pic2 {background: url(../images/)no-repeat center/cover;}
+.evoplay .demo-pic3 {background: url(../images/)no-repeat center/cover;}
+.evoplay .demo-pic4 {background: url(../images/)no-repeat center/cover;}
+.evoplay .demo-pic5 {background: url(../images/)no-repeat center/cover;}
+.evoplay .demo-pic6 {background: url(../images/)no-repeat center/cover;}
+.evoplay .demo-pic7 {background: url(../images/)no-repeat center/cover;}
+.evoplay .demo-pic8 {background: url(../images/)no-repeat center/cover;}
+.pt .demo-pic1 {background: url(../images/)no-repeat center/cover;}
+.pt .demo-pic2 {background: url(../images/)no-repeat center/cover;}
+.pt .demo-pic3 {background: url(../images/)no-repeat center/cover;}
+.pt .demo-pic4 {background: url(../images/)no-repeat center/cover;}
+.pt .demo-pic5 {background: url(../images/)no-repeat center/cover;}
+.pt .demo-pic6 {background: url(../images/)no-repeat center/cover;}
+.pt .demo-pic7 {background: url(../images/)no-repeat center/cover;}
+.pt .demo-pic8 {background: url(../images/)no-repeat center/cover;} */
+
+.hover-big:hover {
+    animation: hover-big .8s ease  alternate infinite;
+}
+
+@keyframes hover-big {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(1.05);
+    }
+}

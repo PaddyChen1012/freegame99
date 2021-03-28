@@ -56,6 +56,15 @@
 .custom-maintext-color,
 .custom-footerb-color {color: #eeeeee !important;}
 .custom-btn-color1 a {color: #000;}
+.custom-golden-color {
+    background: rgb(228,164,9);
+    background: -moz-linear-gradient(225deg, rgba(228,164,9,1) 0%, rgba(252,255,160,1) 17%, rgba(255,255,0,1) 24%, rgba(228,164,9,1) 50%, rgba(255,255,186,1) 61%, rgba(255,180,0,1) 84%, rgba(255,255,0,1) 100%);
+    background: -webkit-linear-gradient(225deg, rgba(228,164,9,1) 0%, rgba(252,255,160,1) 17%, rgba(255,255,0,1) 24%, rgba(228,164,9,1) 50%, rgba(255,255,186,1) 61%, rgba(255,180,0,1) 84%, rgba(255,255,0,1) 100%);
+    background: linear-gradient(225deg, rgba(228,164,9,1) 0%, rgba(252,255,160,1) 17%, rgba(255,255,0,1) 24%, rgba(228,164,9,1) 50%, rgba(255,255,186,1) 61%, rgba(255,180,0,1) 84%, rgba(255,255,0,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#e4a409",endColorstr="#ffff00",GradientType=1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 
 /* hover_style */
 .custom-search-color:hover,
