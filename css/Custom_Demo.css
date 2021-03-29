@@ -47,8 +47,27 @@
 .cq9 .demo-pic6 {background:url(../images/luckybats.jpg)no-repeat center/cover;}
 .cq9 .demo-pic7 {background:url(../images/wonderland.jpg)no-repeat center/cover;}
 .cq9 .demo-pic8 {background:url(../images/redphoenix.jpg)no-repeat center/cover;}
+.jili .demo-pic1 {background:url(../images/baoboonchin.jpg)no-repeat center/cover;}
+.jili .demo-pic2 {background:url(../images/goldenbank.jpg)no-repeat center/cover;}
+.jili .demo-pic3 {background:url(../images/chin-shi-huang.jpg)no-repeat center/cover;}
+.jili .demo-pic4 {background:url(../images/charge-buffalo.jpg)no-repeat center/cover;}
+.jili .demo-pic5 {background:url(../images/crazyseven.jpg)no-repeat center/cover;}
+.jili .demo-pic6 {background:url(../images/golden-queen.jpg)no-repeat center/cover;}
+.jili .demo-pic7 {background:url(../images/dragon-treasure.jpg)no-repeat center/cover;}
+.jili .demo-pic8 {background:url(../images/god-of-martial.jpg)no-repeat center/cover;}
+.joker .demo-pic1 {background:url(../images/roma.jpg)no-repeat center/contain,radial-gradient(rgba(0,0,0,0) 0%,rgba(0,0,0,.6) 100%);}
+.joker .demo-pic2 {background:url(../images/supreme-caishen.jpg)no-repeat center/contain,radial-gradient(rgba(0,0,0,0) 0%,rgba(0,0,0,.6) 100%);}
+.joker .demo-pic3 {background:url(../images/dragon-power-flame.jpg)no-repeat center/contain,radial-gradient(rgba(0,0,0,0) 0%,rgba(0,0,0,.6) 100%);}
+.joker .demo-pic4 {background:url(../images/burning-pearl.jpg)no-repeat center/contain,radial-gradient(rgba(0,0,0,0) 0%,rgba(0,0,0,.6) 100%);}
+.joker .demo-pic5 {background:url(../images/lucky-god-progressive2.jpg)no-repeat center/contain,radial-gradient(rgba(0,0,0,0) 0%,rgba(0,0,0,.6) 100%);}
+.joker .demo-pic6 {background:url(../images/mulan.jpg)no-repeat center/contain,radial-gradient(rgba(0,0,0,0) 0%,rgba(0,0,0,.6) 100%);}
+.joker .demo-pic7 {background:url(../images/sizzling-hot.jpg)no-repeat center/contain,radial-gradient(rgba(0,0,0,0) 0%,rgba(0,0,0,.6) 100%);}
+.joker .demo-pic8 {background:url(../images/horus-eye.jpg)no-repeat center/contain,radial-gradient(rgba(0,0,0,0) 0%,rgba(0,0,0,.6) 100%);}
 .hover-big:hover {animation: hover-big .8s ease  alternate infinite;}
-
+.hover-opacity:hover{opacity:.8;}
+.more-btn {position: relative;background: rgb(255,161,0);background: -moz-linear-gradient(90deg, rgba(255,161,0,1) 2%, rgba(255,254,186,1) 8%, rgba(255,186,38,1) 20%, rgba(255,240,173,1) 42%, rgba(255,170,11,1) 76%, rgba(255,129,11,1) 97%, rgba(255,178,11,1) 100%);background: -webkit-linear-gradient(90deg, rgba(255,161,0,1) 2%, rgba(255,254,186,1) 8%, rgba(255,186,38,1) 20%, rgba(255,240,173,1) 42%, rgba(255,170,11,1) 76%, rgba(255,129,11,1) 97%, rgba(255,178,11,1) 100%);background: linear-gradient(90deg, rgba(255,161,0,1) 2%, rgba(255,254,186,1) 8%, rgba(255,186,38,1) 20%, rgba(255,240,173,1) 42%, rgba(255,170,11,1) 76%, rgba(255,129,11,1) 97%, rgba(255,178,11,1) 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffa100",endColorstr="#ffb20b",GradientType=1);border-radius: 5px;height: 50px;transition: opacity .2s ease;}
+.more-btn:before {content: '';position: absolute;top: 2px;bottom: 2px;left: 2px;right: 2px;background: #000;border-radius: 5px;}
+.more-btn-link {position: absolute;top:0;bottom:0;left:0;right:0;line-height: 50px;z-index: 1;}
 @keyframes hover-big {
     0% {transform: scale(1);}
     100% {transform: scale(1.05);}
