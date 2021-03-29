@@ -72,3 +72,11 @@
     0% {transform: scale(1);}
     100% {transform: scale(1.05);}
 }
+@media (max-width: 500px) {
+    .col-4.col-md-3 {
+        padding: 0 2px;
+    }
+    .h5.custom-golden-color {
+        font-size: .8rem;
+    }
+}
