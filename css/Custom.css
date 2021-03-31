@@ -1,71 +1,23 @@
-.rank-num:before {
-    content: attr(data-num);
-    display: block;
-    position: absolute;
-    top: 10px;
-    left: -25px;
-    width: 100px;
-    height: 30px;
-    background: rgb(255,163,11);
-    background: -moz-linear-gradient(180deg, rgba(255,163,11,1) 0%, rgba(255,253,212,1) 23%, rgba(255,254,159,1) 36%, rgba(250,206,74,1) 61%, rgba(255,148,0,1) 100%);
-    background: -webkit-linear-gradient(180deg, rgba(255,163,11,1) 0%, rgba(255,253,212,1) 23%, rgba(255,254,159,1) 36%, rgba(250,206,74,1) 61%, rgba(255,148,0,1) 100%);
-    background: linear-gradient(180deg, rgba(255,163,11,1) 0%, rgba(255,253,212,1) 23%, rgba(255,254,159,1) 36%, rgba(250,206,74,1) 61%, rgba(255,148,0,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffa30b",endColorstr="#ff9400",GradientType=1);
-    font-weight: bold;
-    text-align: center;
-    transform: rotateZ(-45deg);
-    transform-origin: center;
-    z-index: 1;
-}
-
-.no_sell .main {
-    -webkit-box-flex: 0;
-    -ms-flex: 0 0 100%;
-    flex: 0 0 100%;
-    max-width: 100%;
-}
-
-.no_sell .sell_img {
-    display: none;
-}
-
-
+.rank-num:before {content: attr(data-num);display: block;position: absolute;top: 10px;left: -25px;width: 100px;height: 30px;background: rgb(255,163,11);background: -moz-linear-gradient(180deg, rgba(255,163,11,1) 0%, rgba(255,253,212,1) 23%, rgba(255,254,159,1) 36%, rgba(250,206,74,1) 61%, rgba(255,148,0,1) 100%);background: -webkit-linear-gradient(180deg, rgba(255,163,11,1) 0%, rgba(255,253,212,1) 23%, rgba(255,254,159,1) 36%, rgba(250,206,74,1) 61%, rgba(255,148,0,1) 100%);background: linear-gradient(180deg, rgba(255,163,11,1) 0%, rgba(255,253,212,1) 23%, rgba(255,254,159,1) 36%, rgba(250,206,74,1) 61%, rgba(255,148,0,1) 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffa30b",endColorstr="#ff9400",GradientType=1);font-weight: bold;text-align: center;transform: rotateZ(-45deg);transform-origin: center;z-index: 1;}
+.no_sell .main {-webkit-box-flex: 0;-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}
+.no_sell .sell_img {display: none;}
 /* other_color */
 .custom-search-color {border-color: #F58829;color: #F58829;}
 .custom-btn-color1 {background-color: #F58829;border: 0;}
 .custom-btn-color2 {background-color: #f54129;border: 0;}
-
 /* word_color & bacground_color */
 .custom-cardhear-color,
 .custom-footer-color {background-color: #f6c90e !important;}
 .custom-mainheader-color {background-color: #F58829 !important;}
 .custom-footerb-color {background-color: #303841 !important;}
-
 /* bacground_color */
 .custom-body-color {background-color: #3a4750 !important;}
-.custom-nav-color,
-.custom-dropdownbg-color,
-.custom-mainbg-color,
-.custom-cardbg-color {background-color: #303841 !important;}
-
+.custom-nav-color,.custom-dropdownbg-color,.custom-mainbg-color,.custom-cardbg-color {background-color: #303841 !important;}
 /* word_color */
-.custom-dropdown-color,
-.custom-dropdownitem-color,
-.custom-maintitle-color,
-.custom-heading-color {color: #f6c90e !important;}
-.custom-maintext-color,
-.custom-footerb-color {color: #eeeeee !important;}
+.custom-dropdown-color,.custom-dropdownitem-color,.custom-maintitle-color,.custom-heading-color {color: #f6c90e !important;}
+.custom-maintext-color,.custom-footerb-color {color: #eeeeee !important;}
 .custom-btn-color1 a {color: #000;}
-.custom-golden-color {
-    background: rgb(228,164,9);
-    background: -moz-linear-gradient(225deg, rgba(228,164,9,1) 0%, rgba(252,255,160,1) 17%, rgba(255,255,0,1) 24%, rgba(228,164,9,1) 50%, rgba(255,255,186,1) 61%, rgba(255,180,0,1) 84%, rgba(255,255,0,1) 100%);
-    background: -webkit-linear-gradient(225deg, rgba(228,164,9,1) 0%, rgba(252,255,160,1) 17%, rgba(255,255,0,1) 24%, rgba(228,164,9,1) 50%, rgba(255,255,186,1) 61%, rgba(255,180,0,1) 84%, rgba(255,255,0,1) 100%);
-    background: linear-gradient(225deg, rgba(228,164,9,1) 0%, rgba(252,255,160,1) 17%, rgba(255,255,0,1) 24%, rgba(228,164,9,1) 50%, rgba(255,255,186,1) 61%, rgba(255,180,0,1) 84%, rgba(255,255,0,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#e4a409",endColorstr="#ffff00",GradientType=1);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-
+.custom-golden-color {background: rgb(228,164,9);background: -moz-linear-gradient(225deg, rgba(228,164,9,1) 0%, rgba(252,255,160,1) 17%, rgba(255,255,0,1) 24%, rgba(228,164,9,1) 50%, rgba(255,255,186,1) 61%, rgba(255,180,0,1) 84%, rgba(255,255,0,1) 100%);background: -webkit-linear-gradient(225deg, rgba(228,164,9,1) 0%, rgba(252,255,160,1) 17%, rgba(255,255,0,1) 24%, rgba(228,164,9,1) 50%, rgba(255,255,186,1) 61%, rgba(255,180,0,1) 84%, rgba(255,255,0,1) 100%);background: linear-gradient(225deg, rgba(228,164,9,1) 0%, rgba(252,255,160,1) 17%, rgba(255,255,0,1) 24%, rgba(228,164,9,1) 50%, rgba(255,255,186,1) 61%, rgba(255,180,0,1) 84%, rgba(255,255,0,1) 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#e4a409",endColorstr="#ffff00",GradientType=1);-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
 /* hover_style */
 .custom-search-color:hover,
 .custom-btn-color1:active {background-color: #F58829 !important;border-color: #F58829 !important;color: #fff !important;}
@@ -73,22 +25,4 @@
 .custom-btn-color1:hover {background-color: #F58829;border: 0;box-shadow: 0 0 5px #000;}
 .custom-btn-color2:hover {background-color: #f54129;border: 0;box-shadow: 0 0 5px #000;}
 
-@media (max-width: 768px) {
-    .card-row img {
-        width: 35% !important;
-    }
-    .card-row > div {
-        width: 35% !important;
-    }
-    .card-row h5,
-    .card-row > div >div {
-        width: 100% !important;
-    }
-    .card-row h5 {
-        display: -webkit-box;
-        -webkit-line-clamp: 1;
-        -webkit-box-orient: vertical;
-        white-space: normal;
-        overflow: hidden;
-    }
-}
+@media (max-width: 768px) {.card-row img {width: 35% !important;}.card-row > div {width: 35% !important;}.card-row h5,.card-row > div >div {width: 100% !important;}.card-row h5 {display: -webkit-box;-webkit-line-clamp: 1;-webkit-box-orient: vertical;white-space: normal;overflow: hidden;}}
