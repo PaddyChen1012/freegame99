@@ -24,5 +24,5 @@
 .custom-dropdownbg-color a:hover {background-color: #20252b !important;}
 .custom-btn-color1:hover {background-color: #F58829;border: 0;box-shadow: 0 0 5px #000;}
 .custom-btn-color2:hover {background-color: #f54129;border: 0;box-shadow: 0 0 5px #000;}
-
+/* only for phone */
 @media (max-width: 768px) {.card-row img {width: 35% !important;}.card-row > div {width: 35% !important;}.card-row h5,.card-row > div >div {width: 100% !important;}.card-row h5 {display: -webkit-box;-webkit-line-clamp: 1;-webkit-box-orient: vertical;white-space: normal;overflow: hidden;}}
